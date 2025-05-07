@@ -1,0 +1,954 @@
+[
+    {
+        "type": {
+            "shape": "circle",
+            "title": "圆形"
+        },
+        "templates": [
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 1,
+                        "size": 19,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "number_0": {
+                    "text": "11345678912345",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": true,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 200
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "number_0": {
+                    "text": "11345678912345",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": true,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 200
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 1,
+                        "size": 19,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "number_0": {
+                    "text": "11345678912345",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": false,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 200
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": true,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 200
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 1,
+                        "size": 19,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "third_title": {
+                    "text": "(010)",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0
+                    },
+                    "position": 12
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": true,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 200
+            }
+        ]
+    },
+    {
+        "type": {
+            "shape": "oval",
+            "title": "椭圆形"
+        },
+        "templates": [
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 1,
+                        "size": 19,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "number_0": {
+                    "text": "11345678912345",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": true,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 150
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "number_0": {
+                    "text": "11345678912345",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": true,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 150
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 1,
+                        "size": 19,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "number_0": {
+                    "text": "11345678912345",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": false,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 150
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5,
+                    "star": {
+                        "show": true,
+                        "radius": 27
+                    }
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 150
+            },
+            {
+                "primary_title": {
+                    "text": "在此填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 4
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 1,
+                        "size": 19,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "number_0": {
+                    "text": "11345678912345",
+                    "font": {
+                        "type": 5,
+                        "size": 14,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 4
+                },
+                "number_1": {
+                    "text": "113456789",
+                    "font": {
+                        "type": 1,
+                        "size": 19,
+                        "letter_spacing": 0.2
+                    },
+                    "position": -10
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 150
+            }
+        ]
+    },
+    {
+        "type": {
+            "shape": "diamond",
+            "title": "菱形"
+        },
+        "templates": [
+            {
+                "primary_title": {
+                    "text": "标题",
+                    "font": {
+                        "type": 4,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 225,
+                "height": 110
+            },
+            {
+                "primary_title": {
+                    "text": "填写标题",
+                    "font": {
+                        "type": 1,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "secondary_title": {
+                    "text": "填写标题2",
+                    "font": {
+                        "type": 1,
+                        "size": 16,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 225,
+                "height": 110
+            },
+            {
+                "primary_title": {
+                    "text": "填写标题",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 3
+                },
+                "secondary_title": {
+                    "text": "填写标题2",
+                    "font": {
+                        "type": 4,
+                        "size": 16,
+                        "letter_spacing": 0.2
+                    },
+                    "position": -3
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 225,
+                "height": 150
+            },
+            {
+                "primary_title": {
+                    "text": "填写标题",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "third_title": {
+                    "text": "填写标题3",
+                    "font": {
+                        "type": 4,
+                        "size": 16,
+                        "letter_spacing": 0.1
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 225,
+                "height": 150
+            }
+        ]
+    },
+    {
+        "type": {
+            "shape": "triangle",
+            "title": "三角形"
+        },
+        "templates": [
+            {
+                "primary_title": {
+                    "text": "标题",
+                    "font": {
+                        "type": 4,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 175
+            },
+            {
+                "primary_title": {
+                    "text": "标题",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "dividing_line": {
+                    "count": 1
+                },
+                "width": 200,
+                "height": 175
+            },
+            {
+                "primary_title": {
+                    "text": "标题",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "third_title": {
+                    "text": "标题3",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "dividing_line": {
+                    "count": 2
+                },
+                "width": 200,
+                "height": 175
+            }
+        ]
+    },
+    {
+        "type": {
+            "shape": "inverted_triangle",
+            "title": "倒三角形"
+        },
+        "templates": [
+            {
+                "primary_title": {
+                    "text": "标题",
+                    "font": {
+                        "type": 4,
+                        "size": 28,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "width": 200,
+                "height": 175
+            },
+            {
+                "primary_title": {
+                    "text": "标题",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "dividing_line": {
+                    "count": 1
+                },
+                "width": 200,
+                "height": 175
+            },
+            {
+                "primary_title": {
+                    "text": "标题",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "secondary_title": {
+                    "text": "标题2",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "third_title": {
+                    "text": "标题3",
+                    "font": {
+                        "type": 4,
+                        "size": 20,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": 5
+                },
+                "distressed": {
+                    "dirty": 0.1,
+                    "blurred": 0.1,
+                    "bruise": 0.8
+                },
+                "dividing_line": {
+                    "count": 2
+                },
+                "width": 200,
+                "height": 175
+            }
+        ]
+    },
+    {
+        "type": {
+            "shape": "art",
+            "title": "艺术"
+        },
+        "templates": [
+            {
+                "primary_title": {
+                    "text": "竹",
+                    "font": {
+                        "type": 7,
+                        "size": 160,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Bamboo"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 304,
+                "height": 293
+            },
+            {
+                "primary_title": {
+                    "text": "好",
+                    "font": {
+                        "type": 7,
+                        "size": 160,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Circle"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 292,
+                "height": 295
+            },
+            {
+                "primary_title": {
+                    "text": "龙",
+                    "font": {
+                        "type": 7,
+                        "size": 160,
+                        "letter_spacing": 0.2
+                    },
+                    "position": -20
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Dragon"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 292,
+                "height": 439
+            },
+            {
+                "primary_title": {
+                    "text": "花好月圆",
+                    "font": {
+                        "type": 7,
+                        "size": 100,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Oval"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 292,
+                "height": 507
+            },
+            {
+                "primary_title": {
+                    "text": "梅",
+                    "font": {
+                        "type": 7,
+                        "size": 160,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Plum"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 292,
+                "height": 525
+            },
+            {
+                "primary_title": {
+                    "text": "春夏秋冬",
+                    "font": {
+                        "type": 7,
+                        "size": 80,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Rectangle"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 219,
+                "height": 431
+            },
+            {
+                "primary_title": {
+                    "text": "赞",
+                    "font": {
+                        "type": 7,
+                        "size": 160,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Square"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 292,
+                "height": 293
+            },
+            {
+                "primary_title": {
+                    "text": "浪",
+                    "font": {
+                        "type": 7,
+                        "size": 160,
+                        "letter_spacing": 0.2
+                    },
+                    "position": 0
+                },
+                "style": {
+                    "color": "#FF6600",
+                    "border_width": -1
+                },
+                "bg_image": {
+                    "image_name": "Wave"
+                },
+                "distressed": {
+                    "dirty": 0.0,
+                    "blurred": 0.0,
+                    "bruise": 0.0
+                },
+                "width": 292,
+                "height": 476
+            }
+        ]
+    }
+]
